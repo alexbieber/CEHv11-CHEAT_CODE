@@ -94,7 +94,7 @@ Run
 
 
 
-# My experience - 2022 APRIL:
+# My experience - TILL NOW:
 
 Above material was gathered for preparation, most of the  content is useless for me but its depend on Scenarios maybe you'll find it useful, So its upto you,beside of that you should make your own notes for ILABS videos on youtube.The Questions are interlinked so go with the flow and keep up with smooth pace. During the exam I have searched many things and even went through the commands manual for finding particular flags and tools to find the answer, so don’t worry if anything is missing in your custom cheatsheet as this is an open book exam. 
 
